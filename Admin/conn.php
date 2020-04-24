@@ -26,6 +26,3 @@ echo "\ntesting gcloud php\n";
 </form>
 	
 ?>
-
-
-art_galley
